@@ -1,0 +1,1 @@
+自定义@ProxyRestController注解，实现类lombok@Data效果，在编译期生产代理文件
